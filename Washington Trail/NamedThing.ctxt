@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=NamedThing(java.lang.String)
+comment0.text=\n\ Constructor\ gives\ a\ name\ and\ no\ description\ to\ a\ thing\n\ @param\ n\ name\ of\ thing\n
+comment1.params=n\ d
+comment1.target=NamedThing(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ gives\ a\ name\ and\ description\ to\ a\ thing\n\ @param\ n\ name\ of\ thing\n\ @param\ d\ description\ of\ thing\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Gives\ name\ of\ thing\n\ @return\ name\ of\ thing\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\n\ Gives\ description\ of\ thing\n\ @return\ description\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ returns\ a\ String\ with\ info\ about\ the\ thing\n\ @return\ name\ and\ description\ of\ thing\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DeckOfCards
+comment0.text=\n\ Contains\ a\ deck\ of\ Card\ objects.\ Methods\ to\ shuffle\ and\ deal\ Cards.\n\ @author\ Ojhan\ Ardalan\n\ November\ 29\ 2016\n
+comment1.params=
+comment1.target=DeckOfCards()
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=
+comment3.target=Card\ dealDealerCard()
+comment4.params=
+comment4.target=Card\ dealPlayerCard()
+comment5.params=
+comment5.target=int\ getPlayerValue()
+comment6.params=
+comment6.target=int\ getDealerValue()
+numComments=7

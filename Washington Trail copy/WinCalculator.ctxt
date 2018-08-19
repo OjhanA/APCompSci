@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=place\ pol1\ pol2\ c
+comment0.target=int\ getWinner(City,\ Politician,\ Politician,\ Campaign)
+comment0.text=\n\ Method,\ given\ the\ election\ location\ and\ 2\ politicians,\ that\ determines\ a\ winner\ based\ on\ popular\ vote,\ \n\ which\ is\ additionally\ calculated\ by\ a\ random\ voter\ turnout,\ which\ is\ different\ from\ population,\ and\n\ hopefully\ is\ fairly\ realistic\n\ @param\ place\ location\ of\ election\n\ @param\ pol1\ 1st\ politician\n\ @param\ pol2\ 2nd\ politician\n\ @param\ c\ player\ campaign\n\ @return\ 1\ if\ player\ wins\n\ \ \ \ \ \ \ \ \ -1\ if\ player\ loses\n\ \ \ \ \ \ \ \ \ +\ number\ \=\ \#\ electoral\ votes\ for\ player/pol1\n\ \ \ \ \ \ \ \ \ |-\ number\ |\ \=\ \#\ electoral\ votes\ for\ opponent/pol2\n
+comment1.params=
+comment1.target=void\ confirm()
+numComments=2

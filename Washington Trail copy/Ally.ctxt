@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n\ d\ a\ c\ pat\ rel\ t\ pop\ u\ w
+comment0.target=Ally(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\n\ Gives\ allies\ arbitrary\ stats,\ but\ then\ also\ gives\ boosts\ to\ certain\ Politician\ categories\n\ @param\ n\ name\n\ @param\ d\ description\n\ @param\ a\ approval\ boost\n\ @param\ c\ credibility\ boost\n\ @param\ pat\ patriotism\ boost\n\ @param\ rel\ religion\ boost\n\ @param\ t\ tradition\ boost\n\ @param\ pop\ populist\ boost\n\ @param\ u\ unions\ boost\n\ @param\ w\ wallSt\ boost\n
+comment1.params=
+comment1.target=int[]\ getBoosts()
+numComments=2

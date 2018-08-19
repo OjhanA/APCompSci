@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Task(java.lang.String)
+comment0.text=\r\n\ This\ constructor\ method\ takes\ in\ a\ name\r\n\ @param\ n\ Name\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ This\ method\ returns\ the\ name\r\n\ @return\ The\ name\r\n
+comment2.params=p
+comment2.target=void\ setPriority(int)
+comment2.text=\r\n\ This\ method\ sets\ the\ priority\r\n\ @param\ p\ The\ priority\r\n
+comment3.params=
+comment3.target=int\ getPriority()
+comment3.text=\r\n\ This\ method\ gets\ the\ priority\r\n\ @return\ The\ priority\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ method\ prints\ out\ the\ name\ and\ priority\r\n\ @return\ The\ name\ and\ priority\r\n
+comment5.params=o
+comment5.target=int\ compareTo(java.lang.Object)
+comment5.text=\r\n\ This\ method\ compares\ one\ object\ to\ another\r\n\ @return\ 1\ if\ it's\ greater,\ 0\ if\ it's\ equal,\ or\ -1\ if\ it's\ less\r\n
+numComments=6

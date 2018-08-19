@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=void\ addSong(java.lang.String)
+comment1.params=i
+comment1.target=void\ playSong(int)
+comment2.params=i
+comment2.target=void\ stopSong(int)
+comment3.params=
+comment3.target=int\ getLength()
+numComments=4

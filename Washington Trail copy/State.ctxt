@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n\ d\ p\ econ\ eth\ u\ elec
+comment0.target=State(java.lang.String,\ java.lang.String,\ long,\ int,\ int,\ int,\ int)
+comment0.text=\n\ Constructor\ makes\ a\ State\ with\ population,\ economic\ "score",\ ethnicity\ "score",\n\ name,\ description,\ and\ electoral\ votes\n\ @param\ n\ name\ of\ state\n\ @param\ d\ description\ of\ state\n\ @param\ p\ state\ population\ \n\ @param\ econ\ economic\ "score"\n\ @param\ eth\ ethnic\ "score"\n\ @param\ u\ urban\ "score"\n\ @param\ elec\ electoral\ votes\n
+comment1.params=
+comment1.target=int\ getElectoral()
+comment1.text=\n\ Returns\ number\ of\ electoral\ votes\n\ @return\ electoral\ votes\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Gives\ info\ about\ the\ state\n\ @return\ String\ with\ name\ and\ description,\ population,\ and\ economic\ +\ ethnic\ diversity\ descriptors\n\ and\ electoral\ votes\n
+numComments=3

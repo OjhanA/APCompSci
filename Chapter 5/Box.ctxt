@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=l\ w\ h
+comment0.target=Box(double,\ double,\ double)
+comment1.params=l
+comment1.target=Box(double)
+comment2.params=
+comment2.target=double\ getSurfaceArea()
+comment3.params=
+comment3.target=double\ getVolume()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

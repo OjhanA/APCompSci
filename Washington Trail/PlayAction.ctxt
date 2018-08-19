@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ c
+comment0.target=int\ run(Action,\ Campaign)
+comment0.text=\n\ Runs\ every\ set\ of\ choices\ in\ the\ specified\ action\n\ @param\ a\ any\ of\ the\ available\ actions\n
+comment1.params=s
+comment1.target=int\ numSubChoices(java.lang.String)
+comment1.text=\n\ Method\ to\ return\ the\ number\ of\ subchoices\ within\ a\ choice\n\ @param\ s\ the\ String\ returned\ by\ the\ Action\ method\ numChoices()\n\ @return\ the\ number\ of\ subchoices\ in\ the\ choice\n
+comment2.params=x\ a
+comment2.target=java.lang.String\ getSummary(int,\ Action)
+comment2.text=\n\ Method\ to\ get\ the\ correct\ String\ for\ each\ situation\n\ @param\ x\ path\ \#\ /\ choice\ \#\ /\ option\ \#\ for\ this\ action\n\ @param\ a\ Action\ of\ choice\n\ @return\ the\ formatted\ string\ with\ the\ options\ the\ user\ can\ choose\n
+comment3.params=
+comment3.target=void\ confirm()
+comment3.text=\n\ Makes\ the\ user\ press\ enter\ to\ continue\n
+numComments=4

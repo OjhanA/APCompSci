@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=void\ setPlayers(int)
+comment1.params=
+comment1.target=int\ getPlayers()
+numComments=2
