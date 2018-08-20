@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=FiftyStates()
-comment1.params=
-comment1.target=State\ getRandomState()
-comment2.params=index
-comment2.target=State\ getState(int)
-numComments=3
